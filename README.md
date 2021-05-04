@@ -1,9 +1,9 @@
 # pixabay
 
 A new Flutter project.
-\n
-flutter web app using flutter_bloc library with open source pixels app.
-example url: [here](https://pixabay-webapp29.netlify.app/)
+
+- flutter web app using flutter_bloc library with open source pixels app.
+- example url: [here](https://pixabay-webapp29.netlify.app/)
 
 ## Getting Started
 
