@@ -12,7 +12,7 @@ class PixaRepository {
         Uri.parse('https://api.pexels.com/v1/curated?per_page=80&page=${i}'),
         headers: {
           HttpHeaders.authorizationHeader:
-              "563492ad6f917000010000019051457aa9424d0db0e0b17147886a9e"
+              "get from pixels api,add your api key"
         },
       );
       var jsonBody = json.decode(response.body);
@@ -31,7 +31,7 @@ class PixaRepository {
             'https://api.pexels.com/v1/search?query=$result&per_page=80&page=${i}'),
         headers: {
           HttpHeaders.authorizationHeader:
-              "563492ad6f917000010000012bfc12dc463848e1b15a7cbb8ed27b64"
+              ""
         },
       );
       var jsonBody = json.decode(response.body);
