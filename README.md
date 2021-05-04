@@ -6,7 +6,7 @@ A new Flutter project.
 - and also an android app demo [Here Download](https://mega.nz/file/Wgli3awK#RO54DqK9DBeN0mRpbxvE63sTe6m7SQmS3neOyrIXaf0)
 - Wb Url: [Here](https://pixabay-webapp29.netlify.app/)
 
-![Web Site Preview](https://github.com/Appii00/flutter-bloc-pixels/blob/master/Web%20capture_4-5-2021_1551_pixabay-webapp29.netlify.app.jpeg)
+![Web Site Preview](https://github.com/Appii00/flutter-bloc-pixels/blob/master/Web%20capture_4-5-2021_2033_pixabay-webapp29.netlify.app.jpeg)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
