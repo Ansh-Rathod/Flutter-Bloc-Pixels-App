@@ -2,8 +2,9 @@
 
 A new Flutter project.
 
-- flutter web app using flutter_bloc library with open source pixels app.
-- example url: [here](https://pixabay-webapp29.netlify.app/)
+- flutter android,iOS and web app using flutter_bloc library with open source pixels api. with stock photos download feature using [flutter_downloader](https://pub.dev/packages/flutter_downloader) package.
+- and also an android app demo [Here Download](https://mega.nz/file/Wgli3awK#RO54DqK9DBeN0mRpbxvE63sTe6m7SQmS3neOyrIXaf0)
+- example url: [Here](https://pixabay-webapp29.netlify.app/)
 
 ## Getting Started
 
